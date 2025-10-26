@@ -1,0 +1,1 @@
+import React from 'react'; const App = () => <h1>AnimeFlix Dublado - Olá, Ivan!</h1>; export default App;
